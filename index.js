@@ -1,5 +1,3 @@
-#!/bin/env node
-
 var hatenaGraph = require('hatena-graph-api');
 
 var username = process.env.HATENA_USERNAME;
